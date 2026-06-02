@@ -1,5 +1,5 @@
 import './style.css';
-import './bases/10-giphy-api';
+import './bases/11-async-await';
 import { getHeroesByOwner } from './bases/08-imp-exp';
 import { Owner } from './bases/data/heroes.data';
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
